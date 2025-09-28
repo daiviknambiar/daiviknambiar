@@ -14,8 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning AI/ML Engineering
--  🔭 I’m currently working on BI Development at Compass Group
-
-- Feel free to check out my portfolio and projects below
+Feel free to check out my portfolio and projects below
 [daiviknambiar.github.io](url)
