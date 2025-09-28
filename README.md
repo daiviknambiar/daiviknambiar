@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi there, I'm Daivik 👋 Feel free to check out my portfolio and projects below
-/n
 [daiviknambiar.github.io](url)
