@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there, I'm Daivik 👋 Feel free to check out my portfolio and projects below
+👋 Hi there, I'm Daivik - - Feel free to check out my portfolio and projects below
 [daiviknambiar.github.io](url)
