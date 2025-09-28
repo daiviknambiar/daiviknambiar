@@ -1,4 +1,4 @@
-## Hi there, I'm Daivik 👋
+
 
 <!--
 **daiviknambiar/daiviknambiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Feel free to check out my portfolio and projects below
+Hi there, I'm Daivik 👋 Feel free to check out my portfolio and projects below
+/n
 [daiviknambiar.github.io](url)
